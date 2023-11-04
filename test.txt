@@ -1,0 +1,5 @@
+“[Tên dự án][Tên module] Tên commit  
+[JIRA] Mã issue tương ứng trên Jira 
+[DESC][0] Mô tả sự thay đổi 
+[IssueType] Loại issue: Bug, Story, Task, Subtask…
+[TEST][PASS] NA”

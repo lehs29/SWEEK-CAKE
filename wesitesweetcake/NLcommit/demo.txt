@@ -1,0 +1,3 @@
+ngoc le commit thanh cong 
+chinh sua lan 1
+chinh sua lan 2
